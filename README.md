@@ -1,2 +1,3 @@
-# ga_homeworks
-Homeworks for GA
+# GA Data Science course DAT09 submissions
+Albert Nelson A
+
